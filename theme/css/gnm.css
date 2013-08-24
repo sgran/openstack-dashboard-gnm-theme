@@ -5507,11 +5507,11 @@ body {
 }
 
 .warning {
-  background-color: #eca918;
-  border-bottom: 1px solid #8d6817;
+  background-color: #dc403d;
+  border-bottom: 1px solid #be2825;
   -moz-box-shadow: 0 5px 10px 1px #000;
   -webkit-box-shadow: 0 5px 10px 1px #000;
-  box-shadow: 0 5px 10px 1px #d12a03;
+  box-shadow: 0 5px 10px 1px #7b150e;
   display: block;
   z-index: 999;
   position: relative;
