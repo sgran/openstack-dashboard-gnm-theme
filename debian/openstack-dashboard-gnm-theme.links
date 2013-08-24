@@ -1,0 +1,2 @@
+/etc/openstack-dashboard/gnm_theme.py /usr/share/openstack-dashboard/openstack_dashboard/local/gnm_theme.py
+/usr/share/openstack-dashboard-gnm-theme/static/gnm /usr/share/openstack-dashboard/openstack_dashboard/static/gnm

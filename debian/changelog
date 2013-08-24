@@ -1,0 +1,6 @@
+openstack-dashboard-gnm-theme (0.1) precise-proposed; urgency=low
+
+  * Initial release
+
+ -- Stephen Gran <sgran@debian.org>  Sat, 24 Aug 2013 11:48:18 +0100
+

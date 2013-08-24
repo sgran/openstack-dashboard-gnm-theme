@@ -1,0 +1,15 @@
+Source: openstack-dashboard-gnm-theme
+Section: net
+Priority: extra
+Maintainer: Stephen Gran <sgran@debian.org>
+Build-Depends: debhelper (>= 8.0.0),
+Standards-Version: 3.9.3
+
+Package: openstack-dashboard-gnm-theme
+Architecture: all
+Depends: openstack-dashboard, ${misc:Depends}
+Conflicts: openstack-dashboard-ubuntu-theme
+Description: GNM theme for the Openstack dashboard
+ A custom GNM theme for Horizon.  This package is optional and overrides the
+ default theme and branding.
+

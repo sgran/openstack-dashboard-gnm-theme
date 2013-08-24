@@ -1,0 +1,4 @@
+theme/css/* /usr/share/openstack-dashboard-gnm-theme/static/gnm/css
+theme/img/* /usr/share/openstack-dashboard-gnm-theme/static/gnm/img
+theme/templates/* /usr/share/openstack-dashboard-gnm-theme/templates
+theme/gnm_theme.py /etc/openstack-dashboard
